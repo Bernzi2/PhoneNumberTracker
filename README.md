@@ -1,9 +1,5 @@
 This also Included in the .py file 
-
-Copyright (c) 2022 by Keneth Polledo Baynas   
-https://www.facebook.com/dtsiken             
-itskenethb@gmail.com                         
-
+                      
 TUTORIALS!!!
 
 ATTENTION:TO CHANGE THE NUMBER THAT YOU WANT TO TRACK!

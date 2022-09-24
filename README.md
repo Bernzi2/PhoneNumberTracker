@@ -1,22 +1,21 @@
-This also Included in the .py file 
+THIS ALSO INCLUDED IN THE .PY FILE AS A COMMENT
                       
 TUTORIALS!!!
 
-ATTENTION:TO CHANGE THE NUMBER THAT YOU WANT TO TRACK!
-GO TO THE ANOTHER .py FILE IN THE SAME DIRECTORY AND CHANGE IT
-HE NAME OF FILE IS test.py
-FIRST INPUT THE COUNTRY CODE EXAMPLE: +639 AND THEN THE NUMBER
-THIS IS THE FORMAT IN test.py Below
-number = "+639<YOUR NUMBER YOU WANT TO TRACK ANY NUMBER NOT ONLY IN PHILIPPINES WILL ALSO WORK>"
-FIND AND HIT SAVE OR PRESS CTRL + S TO SAVE THE CHANGES
+Attention:to Change the Number That You Want to Track!
+Go to the Another .py File in the Same Directory and Change It
+He Name of File is Test.py
+First Input the Country Code Example: +639 and Then the Number
+This is the Format in Test.py Below
+Number = "+639<your Number You Want to Track Any Number Not Only in Philippines Will Also Work>"
+Find and Hit Save or Press Ctrl + S to Save the Changes
 
-ADDITIONAL REQUIREMENTS!!!
-
-DIRECTIONS:
-FIRST YOU NEED TO INSTALL THE PYTHON LIBRARY IN THE TERMINAL BECAUSE IT WILL NOT WORK AS WE EXPECTING
-FIRST LIBRARY THAT NEED TO BE DOWNLOADED IS phonenumbers
-TYPE pip install phonenumbers AND PRESS ENTER
-AFTER THAT NEXT LIBRARY IS opencage
-IN THE TERMINAL AGAIN TYPE pip install opencage(FOR LATITUDE AND LONGITUDE)
-AFTER DOWNLOADING THE opencage LIBRARY GO TO THEIR WEBSITE AND CREATE FREE ACCOUNT AND COPY PASTE THE API KEY!
-LAST LIBRARY THAT WE NEED IS folium(FOR THE MAP VIEW THAT WILL STORED TO AN HTML FILE)
+Additional Requirements!!!
+Directions:
+First You Need to Install the Python Library in the Terminal Because It Will Not Work as We Expecting
+First Library That Need to Be Downloaded is Phonenumbers
+Type Pip Install Phonenumbers and Press Enter
+After That Next Library is Opencage
+In the Terminal Again Type Pip Install Opencage(for Latitude and Longitude)
+After Downloading the Opencage Library Go to Their Website and Create Free Account and Copy Paste the Api Key!
+Last Library That We Need is Folium(for the Map View That Will Stored to an Html File)
